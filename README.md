@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sivaramanlatchapathi
 - 👀 I’m interested in software engineering,data engineering and AI/ML.
-- 🌱 I’m currently working in AI/ML and management.
-- 💞️ I’m looking to learn more on AI/ML engineering
+- 🌱 I’m currently working in AI/ML engineering and management.
 - 📫 reach out to me...linkedin@sivaramanlatchapathi , twitter@latchapathi
 
 <!---
